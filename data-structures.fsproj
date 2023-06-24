@@ -5,7 +5,9 @@
     <RootNamespace>data_structures</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BinaryTree.fs" />
+    <Compile Include="Structures\Graph.fs" />
+    <Compile Include="Structures\LinkedList.fs" />
+    <Compile Include="Structures\BinaryTree.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>

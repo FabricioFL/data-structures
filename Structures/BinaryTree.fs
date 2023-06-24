@@ -1,4 +1,4 @@
-namespace DataStructures.BinaryTree
+namespace DataStructures.Structures.BinaryTree
 
 module BinaryTree =
 
